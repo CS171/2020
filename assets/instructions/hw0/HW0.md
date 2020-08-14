@@ -7,34 +7,32 @@ exclude: true
 
 &nbsp;
 
-# Homework 0
+# Homework 0 - Course Enrollment
 
-Welcome to CS171!  This initial homework intends to get you acquainted with the structure and set-up of CS171 to ensure that everything goes smoothly moving forward.
+Welcome to CS171!  This initial homework intends to get you acquainted with the structure and set-up of CS171 to ensure that everything goes smoothly moving forward. Please complete this homework to gain a spot in the enrollment lottery! And do not worry, future homeworks will be a lot more exciting and focused on creating interactive web-based visualizations! :-)
 
 To complete this homework, you will have to do the following steps (which will be explained in more detail below):
 
-1. Get acquainted with the general course structure. (There are slight differences for on-campus students and Harvard Extension school students.)
+1. Get acquainted with the general course structure. 
 2. Take the initial programming quiz.
 3. Introduce yourself on Piazza.
 4. Set-up Webstorm.
 5. Fill out our enrollment survey.
 
 ## 1. Course Structure
-Please take a look at our weekly schedule overview on our [webpage](http://www.cs171.org/2019/schedule/).
+**Please take a look at our syllabus and our weekly schedule overview on our [Canvas site](https://canvas.harvard.edu/courses/74834)! Most of your questions will be answered there!**
 
 We will always post all materials and assignments for each week as a single module on Canvas (by Friday of the preceeding week).
 
-### In-class time:
+### Class Meeting Times (live and mandatory):
 
-####On-campus students (e.g., Harvard college):
-* Labs are on Mondays 3:00-5:00pm.
-* Lectures are on Wednesdays 3:00-5:00pm.
-* Classes start at 3:00pm sharp!
+All class meetings will be held in Zoom. Please make sure that you have a working microphone, have turned on your video, and are in a safe and quiet environment.
 
-####Harvard extension school (DCE) students:
-* Labs are on Mondays 7:55-9:55pm ET.
-* Lectures are on Thursdays 7:40-10:10pm ET.
-* Classes start on time!
+**Lab:** Mondays. You can pick a time that works best for you, either 9 am, 10:30 am, 3 pm, or 7:30 pm ET. (If Monday is a holiday, labs will be held on Tuesday instead.)
+
+**Live Lecture:** Wednesdays. You can pick from two available times, either 9 am or 4:30 pm ET. 
+ 
+Classes start on time!
 
 *Lab note:*
 
@@ -43,12 +41,12 @@ We will always post all materials and assignments for each week as a single modu
 
 ### Work done at home:
 
-* For every lecture and lab you will have to complete a short pre-reading (~20 min).
-* At the beginning of each class, you will have to submit a short quiz about that pre-reading. 
-* Homework assignments are handed out on Mondays and are due the following Sunday at 11.59pm.
+* In preparation for class each week, you will work on your own through asynchronous materials (YouTube videos, websites, lecture videos, book chapters, etc.) to ensure that you are prepared for the programming labs and the activities in class. 
+* Before the beginning of each class, you will have to complete a brief quiz that tests your understanding of the asynchronous materials for that week.
+* Homework assignments are handed out on Mondays and are due the following Sunday at 11.59pm ET.
 
 *Important:* 
-For the lab on Monday, there is already a pre-reading and quiz to complete. Pre-readings, and pre-reading quizzes are accessible on the weekly modules in Canvas.
+The first lab is on Tuesday Sept. 8th (Monday Sept. 7th is a holiday). For the first lab, there is already a pre-reading and quiz to complete. Pre-readings, and pre-reading quizzes are accessible on the weekly modules in Canvas.
 
 ### Help, questions, feedback:
 
@@ -56,13 +54,13 @@ If you have any questions (administrative or visualization-related), there are s
 
 1. Use our online message board Piazza. Your message can be published either just to the teaching fellows, or the entire course. 
 2. If you can wait until the next class meeting, ask course staff at the end of class.
-3. Attend office hours. Office hours will be posted here: [http://www.cs171.org/2019/schedule/](http://www.cs171.org/2019/schedule/)
+3. Attend office hours. Office hours will be posted on [Canvas](https://canvas.harvard.edu/courses/74834/pages/schedule).
 4. Email course staff, either the TF that is mentoring your project team, or staff@cs171.org. 
 
 
 
 ## 2. Programming Quiz
-Please fill out our programming quiz on Canvas (under HW 0 of Week 1 module). This quiz covers very simple programming concepts and should only take you a couple of minutes. If you have trouble with this quiz, we strongly encourage you to take a programming class like CS50 prior to taking CS171.
+Please fill out our programming quiz on Canvas (under HW 0 of the Shopping Week module). This quiz covers very simple programming concepts and should only take you a couple of minutes. If you have trouble with this quiz, we strongly encourage you to take a programming class like CS50 prior to taking CS171.
 
 <!--
 ## 4. Studio sign-up
@@ -76,7 +74,7 @@ DCE students will be assigned into studio groups by us, and will get an email fr
 -->
 
 ## 3. Piazza
-Go to [Piazza](https://piazza.com/class/cs171) and sign up for the class using your Harvard e-mail address. 
+Click on the Piazza link on our Canvas page or go to [Piazza](https://piazza.com/class/kd0jcr9kf455yu) and sign up for the class using your Harvard e-mail address. 
 
 <!-- [DCE]
 If you are a DCE student and don't have a Harvard e-mail address, please sign up for one [here](http://g.harvard.edu/extension-school-and-summer-school-faq/extension_opt_in).-->
@@ -94,7 +92,7 @@ JetBrains WebStorm is a JavaScript IDE that we encourage you to use for D3 devel
 You can claim a free student license for use in this class [here](https://www.jetbrains.com/student/). Make sure that you use your university email address for this step!
 
 ## 5. Enrollment Survey
-Please complete the enrollment survey on Canvas (week 1). It should only take a few minutes to complete and it will automatically enter you into the CS171 lottery.
+Please complete the enrollment survey on Canvas (shopping week). It should only take a few minutes to complete and it will automatically enter you into the CS171 lottery.
 
 
 <!--
