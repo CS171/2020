@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CS171 Visualization - Fall 2019
+title: CS171 Visualization - Fall 2020
 menu: Home
 order: 1
 ---
@@ -11,8 +11,6 @@ order: 1
 
 <div class="credits"><a href="http://mbostock.github.io/d3/talk/20111116/bundle.html">Hierarchical edge bundling]</a> | <a href="http://hint.fm/wind/">Wind map</a> | <a href="http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html?_r=0">How states have shifted</a> </div>
 
-## Attention: This Website is for the 2019 course only! The 2020 course can be found on Canvas!
-## [Link to the 2020 CS 171 Canvas site](https://canvas.harvard.edu/courses/74834)
 
 The amount and complexity of information produced in science, engineering, business, and everyday human activity is increasing at staggering rates. The goal of this course is to expose you to visual representation methods and techniques that increase the understanding of complex data. Good visualizations not only present a visual interpretation of data, but do so by improving comprehension, communication, and decision making.
 
@@ -21,7 +19,7 @@ In this course you will learn how the human visual system processes and perceive
 This website is for both the Harvard college CS 171 course and the Harvard Extension School CSCI E-171 course.
 
 **Limited enrollment:** To provide the best possible learning experience this course has limited enrollment. We only admit 80 college students and 30 Extension school students.  
-*College students:* If you are interested in joining this course please fill out a enrollment survey. **The enrollment survey will be available AFTER the first lecture (Sept 4th, 5:00pm) until Sunday Sept 8th, midnight.** The survey is available on our Canvas page.  
+*College students:* If you are interested in joining this course please fill out a enrollment survey. **The enrollment survey will be available AFTER shopping period starts.** The survey is available on our Canvas page.  
 *DCE students:* Course enrollment is on a first-come, first-serve basis, starting July 29th.
 
 **Cross-registering college students:** To get access to the course's Canvas page you will have to 1) get an XID [here](http://xid.harvard.edu/); 2) send an e-mail to staff@cs171.org with the subject 'Canvas ID'; 3) the e-mail needs to contain your Name, e-mail and XID.
@@ -30,7 +28,7 @@ This website is for both the Harvard college CS 171 course and the Harvard Exten
 
 
 
-### Instructor and Head TF
+### Instructor and TFs
 
 [Hanspeter Pfister](http://vcg.seas.harvard.edu/people/hanspeter-pfister) (Instructor)  
 Johanna Beyer (Head TF)
@@ -52,25 +50,25 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/61741)
 
 ### Teaching Fellows
 
-* *Extension School TF:* Alain Ibrahim - Principal Software Architect
-* *Extension School TF:* Tosin Alliyu - Masters Candidate in Design Engineering
-* *Grader:* Olivia Bryant -  A. B. Candidate in Statistics, Class of 2021
-* Laura Chapman - A. B. Candidate in Computer Science, Class of 2020
-* Jess Eng - A. B. Candidate in Folklore and Mythology and Statistics, Class of 2021 
-* *Grader:* Felix Gonda - PhD Candidate, Visual Computing Group
+* Olivia Bryant -  A. B. Candidate in Statistics, Class of 2021
+* Alain Ibrahim - Principal Software Architect
+* Nicole Jarmula - A. B. Candidate in Computer Science, Class of 2021
 * Robert Krueger - Postdoctoral Fellow, Visual Computing Group
-* Fritz Lekschas - PhD Candidate, Visual Computing Group
+* Ben Levy - M. Sc. Candiate, Data Science
+* Tica Lin - Ph.D. Candidate, Visual Computing Group
+* Zilin Ma - Ph.D Candidate, Intelligent Interactive Systems Group
+* Carolina Nobre - Postdoctoral Fellow
 * Robert Roessler - PhD Candidate, Department of Germanic Languages and Literatures
 * Yalong Yang - Postdoctoral Fellow, Visual Computing Group
-
-
-
-
-
-
+* Elizabeth Yeoh-Wang - Harvard CS, Class of 2020
+* Amy Zhou -  Joint concentrator in Computer Science & Women Gender Studies with a secondary in Education, Class of 2021
+ 
+ 
 
 
 ### Previous Years
+
+[2019 Fall Website](http://www.cs171.org/2019/)
 
 [2018 Fall Website](http://www.cs171.org/2018/)
 
