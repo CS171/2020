@@ -6,6 +6,29 @@ order: 8
 menu: Fame
 ---
 
+## Best Projects Fall 2020
+These are the best projects (out of 41 in total) in 2020. 
+
+### Winner
+[Dive In - Exploring the Charles River's Health](https://mjnickerson.github.io/)
+Barbara Kulaga, Micah Nickerson, Venus Nnadi, Lucia Salwen 
+
+### Runner Up
+[Under the influence - A visual story on global alcohol consumption and abuse
+](https://nina3719.github.io/Under-The-Influence/)
+Peitong Chen, Nina Chen, Tiange Wang 
+
+[Squirrels in the City](https://jadaleee.github.io/squirrels/)
+Jada Lee, Lizzy Ling, Iris Su
+
+### Honorable Mention
+[Inequality in New York City](https://rayortigas.github.io/cs171-inequality-in-nyc/)
+Britteny Okorom-Achuonye, Shavonna Jackson, Ray Ortigas
+
+[The History of Space Flight](https://mmancinelli.github.io/space_monkeys/)
+Juan Carlos Lopez, Michael Mancinelli, Zane Wolf
+
+
 ## Best Projects Fall 2019
 These are the best projects (out of 31 in total) in 2019. 
 
